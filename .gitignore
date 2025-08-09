@@ -1,0 +1,4 @@
+node_modules/
+dist/
+funding_*.json
+.DS_Store
